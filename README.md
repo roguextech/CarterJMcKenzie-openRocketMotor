@@ -42,9 +42,11 @@ exit pressure, and regression distance all with respect to time.  Additionally a
 for the 2d FMM is shown
 
 Sample Regression Map:
+
 ![Wagon Wheel Regression](/sample_results/StarRegression.png)
 
 Sample Thrust Curves:
+
 ![Wagon Wheel Thrust Method Comparsion](/sample_results/WagonThrust.png)
 
 Necessary Libraries:
